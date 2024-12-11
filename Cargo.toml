@@ -1,0 +1,6 @@
+[package]
+name = "experiences_plugin_media_scan"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
